@@ -3,3 +3,4 @@ gitのテスト(windows)
 ・git add
 ・git commit
 ・git rm
+・エディタの変更
