@@ -1,2 +1,4 @@
 gitのテスト(windows)
 ワークフローについて勉強
+・git add
+・git commit
