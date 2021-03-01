@@ -5,3 +5,4 @@ gitのテスト(windows)
 ・git rm
 ・エディタの変更
 ・git status
+・git diff
