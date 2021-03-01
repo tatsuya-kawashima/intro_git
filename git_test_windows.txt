@@ -4,3 +4,4 @@ gitのテスト(windows)
 ・git commit
 ・git rm
 ・エディタの変更
+・git status
