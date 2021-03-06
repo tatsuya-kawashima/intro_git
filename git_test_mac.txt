@@ -1,0 +1,4 @@
+Gitの練習
+Git statusのテスト(リポジトリ用)
+Git statusのテスト(ステージ用)
+Git statusのテスト(ワークツリー用)
